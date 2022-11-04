@@ -11,3 +11,6 @@ for sentence in sentence:
     else:
         vysledek[sentence] = 1
 print(vysledek)
+
+
+#Hacky, carky jsem udelal jen takto, protoze i presto ze jsem se vsude mozne dival nedokazal jsem na to prijit.
